@@ -40,3 +40,6 @@ Email: ivan.shirinsky@gmail.com
 
 Профиль исследователя ORCID:  
 [0000-0002-8603-3406](https://orcid.org/0000-0002-8603-3406)
+
+Google Scholar:  
+[Профиль научных публикаций](https://scholar.google.com/citations?user=Ao8MTLMAAAAJ&hl=ru)
