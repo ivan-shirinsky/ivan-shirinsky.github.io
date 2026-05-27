@@ -23,6 +23,7 @@
   
   ---
 
+
 ## Последние публикации
 
 - [Современные проблемы мультиморбидности](https://ivan-shirinsky.github.io/multimorbidity-review/)  
