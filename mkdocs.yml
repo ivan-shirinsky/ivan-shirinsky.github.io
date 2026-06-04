@@ -1,3 +1,6 @@
 site_name: Иван Ширинский - ревматология и медицинские исследования
+site_url: https://ivan-shirinsky.github.io/
+
 theme:
   name: material
+  
