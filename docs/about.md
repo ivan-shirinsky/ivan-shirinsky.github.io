@@ -32,8 +32,8 @@ Head of the Laboratory for Multimorbidity in Rheumatic Diseases.
 ### Research profiles
 
 * ORCID: 0000-0002-8603-3406
-* Google Scholar
-* GitHub
+* Google Scholar:  https://scholar.google.com/citations?user=Ao8MTLMAAAAJ  
+* GitHub: https://github.com/ivan-shirinsky
 
 ### Contact
 
