@@ -4,9 +4,6 @@ site_url: https://ivan-shirinsky.github.io/
 theme:
   name: material
 
-extra:
-  google_site_verification: N97mvxV3OpGvyLTV3Azcny1YJap1N70cT7XAKOWxxoE
-
 nav:
   - Главная: index.md
   - Об авторе: about.md
