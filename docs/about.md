@@ -1,41 +1,55 @@
-# About
+# Об авторе
 
-## Ivan V. Shirinsky, MD, PhD, D.Med.Sc.
+## Иван Валерьевич Ширинский
 
-Rheumatologist, Clinical Epidemiologist, and Researcher.
+### Ivan V. Shirinsky, MD, PhD, D.Med.Sc.
 
-I am a rheumatologist and clinical epidemiologist with research interests in osteoarthritis, chronic pain, multimorbidity, and metabolic mechanisms of musculoskeletal diseases.
+Ревматолог, клинический эпидемиолог и исследователь.
 
-My work combines:
+Руководитель лаборатории мультиморбидности ревматических заболеваний Научно-исследовательского института терапии и профилактической медицины.
 
-* Clinical epidemiology
-* Biomarker research
-* Systematic reviews and meta-analyses
-* Mendelian randomization
-* Genetic epidemiology
-* Reproducible research in R
+Основные научные интересы:
 
-### Current position
+* остеоартрит
+* хроническая боль
+* мультиморбидность
+* ревматические заболевания
+* клиническая эпидемиология
+* доказательная медицина
+* систематические обзоры и метаанализы
+* менделевская рандомизация
+* генетическая эпидемиология
 
-Head of the Laboratory for Multimorbidity in Rheumatic Diseases.
-
-### Research interests
+## Research Interests
 
 * Osteoarthritis
-* Chronic pain
+* Chronic Pain
 * Multimorbidity
-* Rheumatic diseases
-* Mendelian randomization
-* Evidence synthesis
-* Systematic reviews and meta-analyses
+* Rheumatic Diseases
+* Clinical Epidemiology
+* Evidence-Based Medicine
+* Systematic Reviews and Meta-analyses
+* Mendelian Randomization
+* Genetic Epidemiology
 
-### Research profiles
+## Research Profiles
 
-* ORCID: https://orcid.org/0000-0002-8603-3406
-* Google Scholar:  https://scholar.google.com/citations?user=Ao8MTLMAAAAJ  
-* GitHub: https://github.com/ivan-shirinsky
+ORCID: 0000-0002-8603-3406
 
-### Contact
+LinkedIn:
+https://www.linkedin.com/in/ivan-shirinsky-08a080110/
 
-Email: [ivan.shirinsky@gmail.com](mailto:ivan.shirinsky@gmail.com)
+Google Scholar:
+https://scholar.google.com/citations?user=Ao8MTLMAAAAJ
+
+Web of Science Researcher Profile:
+https://www.webofscience.com/wos/author/record/D-4344-2018
+
+GitHub:
+https://github.com/ivan-shirinsky
+
+## Contact
+
+Email:
+[ivan.shirinsky@gmail.com](mailto:ivan.shirinsky@gmail.com)
 
