@@ -61,17 +61,32 @@
 
 - [New evidence questions benefits of turmeric for knee arthritis](https://www.cochrane.org/about-us/news/new-evidence-questions-benefits-turmeric-knee-arthritis)
 
-### Публикации в СМИ (избранное)
+## Освещение результатов исследования в СМИ
+
+Результаты исследования получили широкое освещение в зарубежных и российских СМИ.
+
+### Официальный пресс-релиз Cochrane
+
+19 ноября 2026 года Cochrane опубликовал официальный пресс-релиз, посвящённый результатам обзора и методологическим особенностям исследования, с комментариями ведущего автора Ивана Ширинского.
+
+- [New evidence questions benefits of turmeric for knee arthritis](https://www.cochrane.org/about-us/news/new-evidence-questions-benefits-turmeric-knee-arthritis)
+
+### Зарубежные СМИ (избранное)
 
 - [New Scientist (Великобритания)](https://www.newscientist.com/article/2599636-turmeric-supplements-offer-little-benefit-for-knee-osteoarthritis/)
 - [The Independent (Великобритания)](https://www.independent.co.uk/news/uk/home-news/turmeric-benefits-curcumin-supplement-knee-osteoarthritis-pain-b3087746.html)
-- [Daily Mail (Великобритания)](https://www.dailymail.com/health/article-16302451/Turmeric-joint-pain-useless-remedy.html)
 - [Everyday Health (США)](https://www.everydayhealth.com/orthopedic-conditions/turmeric-supplements-may-not-help-knee-arthritis/)
 - [Doctors.net.uk (Великобритания)](https://www.doctors.net.uk/news/cochrane-review-turmeric-makes-little-or-no-difference-to-knee-osteoarthritis)
 - [Medical Xpress](https://medicalxpress.com/news/2026-11-evidence-benefits-turmeric-knee-arthritis.html)
+- [Daily Mail (Великобритания)](https://www.dailymail.com/health/article-16302451/Turmeric-joint-pain-useless-remedy.html)
 - [Men's Fitness Online (Австралия)](https://mensfitnessonline.com.au/turmeric-for-knee-pain/)
 - [Health Chosun (Южная Корея)](https://health.chosun.com/english/site/data/html_dir/2026/11/23/2026112301784.html)
-- [RT (Россия)](https://russiatoday.ru/science/article/1712769-kurkuma-polza-osteoartrit-obzor)
+
+### Российские СМИ (избранное)
+
+- [Известия](https://iz.ru/2204866/uchenye-soobshchili-o-nekhvatke-dokazatelstv-polzy-kurkumy-pri-artroze-izi)
+- [RT](https://russiatoday.ru/science/article/1712769-kurkuma-polza-osteoartrit-obzor)
+
 
 ## Библиографическая информация
 
