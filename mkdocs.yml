@@ -7,3 +7,4 @@ theme:
 nav:
   - Главная: index.md
   - Об авторе: about.md
+  - Обзор Cochrane: cochrane-turmeric.md
